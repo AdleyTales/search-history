@@ -1,7 +1,7 @@
 # javascript实现历史记录
 
 #### 效果展示：
-![历史记录效果图](img/demo.png)
+![历史记录效果图](img/demo.gif)
 
 
 #### 代码code：
